@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_first"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="第一种 直播布局" />
+
+    <Button
+        android:id="@+id/btn_second"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="第二种 多行文本显示控件" />
+
+    <Button
+        android:id="@+id/btn_third"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btn_fourth"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btn_fifth"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+
+    <Button
+        android:id="@+id/btn_sixth"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="" />
+</LinearLayout>

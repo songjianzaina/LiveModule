@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <com.johnny.livelayout.view.SlideMenu
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <include layout="@layout/view_empty" />
+
+        <include layout="@layout/view_layer" />
+
+    </com.johnny.livelayout.view.SlideMenu>
+</RelativeLayout>

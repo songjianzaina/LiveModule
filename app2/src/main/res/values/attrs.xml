@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 圆形头像 -->
+    <declare-styleable name="CustomRoundView">
+        <attr name="border_width" format="dimension"></attr>
+        <attr name="border_color" format="color"></attr>
+    </declare-styleable>
+    <!---->
+    <declare-styleable name="GiftItemLayout">
+        <attr name="gift_index" format="integer" />
+    </declare-styleable>
+</resources>
